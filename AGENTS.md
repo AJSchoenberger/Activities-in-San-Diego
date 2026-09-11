@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every exam module must visibly state its real eligibility or sponsorship gate and link to its official authority; the site must never imply that passing one exam alone makes someone a licensed financial advisor or CFP® professional.
 
 ## Workflow
 

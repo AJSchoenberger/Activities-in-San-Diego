@@ -1,12 +1,10 @@
 # TARGET: today's build
 
-Choose the idea, person, interaction, and visual direction. The agent can help phrase and save your decisions after you approve them. The provided scope and review safeguards stay in place.
+- **Thing:** Road to Financial Advisor — a one-page, Canvas-style learning dashboard where visitors choose an exam module (SIE, Series 7, Series 66, or CFP®) and follow a structured study roadmap toward a financial-advisor career.
+- **Audience:** College students, recent graduates, and career changers who want a clear, beginner-friendly overview of a common financial-advisor credential path and what to study next.
+- **Requirements:** One working primary interaction: selecting an exam opens its module with a recommended study timeline, weekly modules, daily tasks, suggested study hours, original topic summaries, short self-check quizzes with feedback, an end-of-module practice quiz, and a visible progress state. The first build will provide representative daily plans and original practice questions—not copied vendor materials or a full replacement for an official preparation course.
+- **Guardrails:** Static browser code. No required external service, keys, accounts, runtime AI, or private data. Label all schedules, questions, and score goals as educational recommendations, not guarantees or official exam content. Link to authoritative FINRA, NASAA, and CFP Board requirements; preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
+- **Experience:** A calm, accessible Canvas-inspired course hub: a left-side credential roadmap, clear module cards, a “today’s task” view, checkboxes/progress, and expandable lesson, quiz, and final-practice sections. Prioritize simple navigation and readable scheduling over a dense finance dashboard.
+- **Test:** I can select every exam module, see its study duration and recommended daily/weekly workload, complete at least one lesson quiz and one end-of-module quiz, receive understandable feedback, and see the standing rule applied in the preview. After approval and merge, the registered Pages URL still works.
 
-- **Thing:** [My one-page website or mini-app and its main interaction.]
-- **Audience:** [One specific person, and what they want to do or understand.]
-- **Requirements:** One working primary interaction; selected states and results are understandable; honor my approved standing rule in AGENTS.md.
-- **Guardrails:** Static browser code. No required external service, keys, accounts, runtime AI, or private data. Label fictional or sample content. Preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
-- **Experience:** [My visual reference or direction and the most important layout or interaction relationship.]
-- **Test:** I can complete the main action, check one boundary or factual claim, and point to my standing rule's effect in the actual preview. After I approve and merge, the same registered Pages URL works.
-
-The coastal example has a [completed TARGET](examples/coast/SPEC.md). It demonstrates the format, not a required topic.
+The credential path is a recommended learning route, not a guarantee of registration or certification.
